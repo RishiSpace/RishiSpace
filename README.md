@@ -31,6 +31,7 @@
 |-----------|----------------|
 | 🔹 [**OSFM**](https://github.com/RishiSpace/OSFM/tree/osfm-net) | A robust server-client management tool with a clean UI. Supports RDP, software install management, and Windows fixes. |
 | 🔹 [**FastWrite**](https://rishisp.me/FastWrite) | AI-powered Python package to auto-generate documentation & flow diagrams using LLMs. |
+| 🔹[**OSFM Markdown Editor**](https://osfm-md.netlify.app) | AI-Enhanced, Cloud-First Open-Source Markdown Editor |
 | 🔹 **Handwriting Recognition** | A neural network trained to classify handwritten characters with precision. |
 
 ---
