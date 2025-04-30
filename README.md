@@ -29,9 +29,10 @@
 
 | 🚧 Project | 📝 Description |
 |-----------|----------------|
-| 🔹 [**OSFM**](https://github.com/RishiSpace/OSFM/tree/osfm-net) | A robust server-client management tool with a clean UI. Supports RDP, software install management, and Windows fixes. |
+| 🔹 [**OSFM**](https://rishisp.me/osfm) | A robust server-client management tool with a clean UI. Supports RDP, software install management, and Windows fixes. |
 | 🔹 [**FastWrite**](https://rishisp.me/FastWrite) | AI-powered Python package to auto-generate documentation & flow diagrams using LLMs. |
 | 🔹[**OSFM Markdown Editor**](https://osfm-md.netlify.app) | AI-Enhanced, Cloud-First Open-Source Markdown Editor |
+| 🔹[**OSFM AI Terminal Assistant**](https://osfm-ata.vercel.app) | A Script that fetches terminal commands from the OSFM-ATA website and prints the command output. The script supports PowerShell, Bash, and package managers like apt, dnf, and pacman. |
 | 🔹 **Handwriting Recognition** | A neural network trained to classify handwritten characters with precision. |
 
 ---
