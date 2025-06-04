@@ -31,7 +31,7 @@
 |-----------|----------------|
 | 🔹 [**OSFM**](https://rishisp.tech/osfm) | A robust server-client management tool with a clean UI. Supports RDP, software install management, and Windows fixes. |
 | 🔹 [**FastWrite**](https://rishisp.tech/FastWrite) | AI-powered Python package to auto-generate documentation & flow diagrams using LLMs. |
-| 🔹[**OSFM Markdown Editor**](https://osfm-md.netlify.app) | AI-Enhanced, Cloud-First Open-Source Markdown Editor |
+| 🔹[**OSFM Markdown Editor**](https://osfm-md.vercel.app) | AI-Enhanced, Cloud-First Open-Source Markdown Editor |
 | 🔹[**OSFM AI Terminal Assistant**](https://osfm-ata.vercel.app) | A Script that fetches terminal commands from the OSFM-ATA website and prints the command output. The script supports PowerShell, Bash, and package managers like apt, dnf, and pacman. |
 | 🔹[**OSFM Credentials Manager**](https://osfm-creds.vercel.app) | An Open-Source Local-First Credentials Manager with an option to backup to Google Cloud |
 | 🔹 **Handwriting Recognition** | A neural network trained to classify handwritten characters with precision. |
