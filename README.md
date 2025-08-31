@@ -20,7 +20,7 @@
 
 ## 💼 About Me
 
-🎓 I’m currently pursuing my batchelor's degree in **Artificial Intelligence & Data Science** where I get to blend creativity and code every day.  
+🎓 I’m currently pursuing my master's degree in **Artificial Intelligence & Data Science** where I get to blend creativity and code every day.  
 🔍 My core interests lie in understanding how modern computing works — from hardware-level interactions to intelligent software automation.  
 
 ---
